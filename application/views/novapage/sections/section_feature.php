@@ -53,86 +53,53 @@ if (isset($get_section_feature['value'])) {
         </div>
         <div class="section-body">
             <div class="container">
-                <div class="card">
-                    <div class="card-body">
+                <div class="row">
+                    <div class="col-lg-12">
                         <div class="row justify-content-center">
-                            <div class="col-lg-2 mb-4 col-py-2">
-                                <div class="card card-border icon-grid  grid-slide-up">
-                                    <h5 class="text-center icon-header">
-                                        <div class="post-img-container" style="background:url('<?php echo base_url('asset/img_novapage/icon/facebookcolor.png'); ?>');
-                                                background-position:center;
-                                                background-size:50px;
-                                                background-repeat:no-repeat;
-                                                height:60px;"></div>
-                                    </h5>
-                                    <div class=" icon-body text-center">
-                                        <div class="text mb-2">
-                                            gerindrajateng
-                                        </div>
+                            <div class="col-lg-1">
+                                GAMBAR
+                            </div>
+                            <div class="col-lg-2">
+                                Facebook:
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        partai gerindra jateng
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-2 mb-4 col-py-2">
-                                <div class="card card-border icon-grid  grid-slide-up">
-                                    <h5 class="text-center icon-header">
-                                        <div class="post-img-container" style="background:url('<?php echo base_url('asset/img_novapage/icon/twittercolor.png'); ?>');
-                                                background-position:center;
-                                                background-size:50px;
-                                                background-repeat:no-repeat;
-                                                height:60px;"></div>
-                                    </h5>
-                                    <div class=" icon-body text-center">
-                                        <div class="text mb-2">
-                                            @gerindrajateng
-                                        </div>
+                            <!-- SOSMED -->
+                            <div class="col-lg-1">
+                                GAMBAR
+                            </div>
+                            <div class="col-lg-2">
+                                Instagram:
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        partai gerindra jateng
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-2 mb-4 col-py-2">
-                                <div class="card card-border icon-grid  grid-slide-up">
-                                    <h5 class="text-center icon-header">
-                                        <div class="post-img-container" style="background:url('<?php echo base_url('asset/img_novapage/icon/igcolor.png'); ?>');
-                                                background-position:center;
-                                                background-size:50px;
-                                                background-repeat:no-repeat;
-                                                height:60px;"></div>
-                                    </h5>
-                                    <div class=" icon-body text-center">
-                                        <div class="text mb-2">
-                                            @gerindrajateng
-                                        </div>
+                            <!-- SOSMED -->
+                            <div class="col-lg-1">
+                                GAMBAR
+                            </div>
+                            <div class="col-lg-2">
+                                Twitter:
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        partai gerindra jateng
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-2 mb-4 col-py-2">
-                                <div class="card card-border icon-grid  grid-slide-up">
-                                    <h5 class="text-center icon-header">
-                                        <div class="post-img-container" style="background:url('<?php echo base_url('asset/img_novapage/icon/titokcolor.png'); ?>');
-                                                background-position:center;
-                                                background-size:50px;
-                                                background-repeat:no-repeat;
-                                                height:60px;"></div>
-                                    </h5>
-                                    <div class=" icon-body text-center">
-                                        <div class="text mb-2">
-                                            @gerindrajateng
-                                        </div>
-                                    </div>
-                                </div>
+                            <!-- SOSMED -->
+                            <div class="col-lg-1">
+                                GAMBAR
                             </div>
-                            <div class="col-lg-2 mb-4 col-py-2">
-                                <div class="card card-border icon-grid  grid-slide-up">
-                                    <h5 class="text-center icon-header">
-                                        <div class="post-img-container" style="background:url('<?php echo base_url('asset/img_novapage/icon/youtubecolor.png'); ?>');
-                                                background-position:center;
-                                                background-size:50px;
-                                                background-repeat:no-repeat;
-                                                height:60px;"></div>
-                                    </h5>
-                                    <div class=" icon-body text-sm-left">
-                                        <div class="text mb-4">
-                                            gerindrajateng
-                                        </div>
+                            <div class="col-lg-2">
+                                Tiktok:
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        partai gerindra jateng
                                     </div>
                                 </div>
                             </div>
